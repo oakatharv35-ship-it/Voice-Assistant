@@ -1,0 +1,17 @@
+requests
+python-dotenv
+spotipy
+google-auth
+google-auth-oauthlib
+google-api-python-client
+ollama
+beautifulsoup4
+ddgs
+kokoro>=0.9.2
+pyttsx3
+ytmusicapi
+yt_dlp
+faster-whisper 
+sounddevice 
+soundfile 
+numpy
