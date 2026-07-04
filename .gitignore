@@ -2,3 +2,8 @@ google_credential.json
 browser.json
 token.json
 yt_music.json
+__pycache__/
+.vscode/
+agents/__pycache__/
+core/__pycache__/
+tools/__pycache__/
